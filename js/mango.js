@@ -14,6 +14,8 @@ class mango{
 		World.add(world, this.body);
 	}
 
+	
+
 	display()
 	{
 		var mangoPos=this.body.position;	
